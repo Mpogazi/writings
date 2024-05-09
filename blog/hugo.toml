@@ -1,0 +1,5 @@
+baseURL = 'https://Mpogazi.github.io'
+languageCode = 'en-us'
+title = "Fab Scribbles"
+
+theme="PaperMod"
