@@ -3,3 +3,9 @@ languageCode = 'en-us'
 title = "Fabrice's Scribbles"
 
 theme="PaperMod"
+
+[menu]
+    [[menu.main]]
+        name = "Posts"
+        url = "/"
+        weight = 1
