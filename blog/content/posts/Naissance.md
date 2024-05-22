@@ -1,7 +1,7 @@
 +++
 title = 'Naissance (The Beginning of a Story)'
 date = 2024-05-21T19:16:02-04:00
-draft = true
+draft = false
 +++
 
 We are all busy going about our lives, consumed by a never-ending stream of tasks and responsibilities. Each day, we face urgent demands that seem crucial at the moment, but we quickly forget them once they are completed. In this constant hustle, we rarely pause to break the monotony and reflect on life as a whole. We seldom ask ourselves profound questions like, why are we here? What is happening in the infinite universe around us? These questions are essential for a deeper understanding of our existence, yet they often get lost in the rush of our daily routines.
